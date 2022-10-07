@@ -19,4 +19,4 @@ git clone https://github.com/DH-Alamin/public
 
 cd public
 
-python3 run.py
+python3 public
